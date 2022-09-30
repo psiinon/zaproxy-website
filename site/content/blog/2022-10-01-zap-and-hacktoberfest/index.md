@@ -3,7 +3,7 @@ title: "ZAP and Hacktoberfest"
 summary: >
     ZAP is partcipating in Hacktoberfest 2022.
 images:
-- https://www.zaproxy.org/site/blog/2022-10-01-zap-and-hacktoberfest/images/Hfest-Badge-2-Color-Void@2x.png
+- https://www.zaproxy.org/site/blog/2022-10-01-zap-and-hacktoberfest/images/Hfest_Badge.png
 type: post
 tags:
 - blog
