@@ -12,6 +12,9 @@ links:
   - name: 'OWASP Benchmark'
     link: benchmark
     desc: a test suite designed to verify the speed and accuracy of software vulnerability detection tools
+  - name: 'Reinforced Wavsep'
+    link: rwavsep
+    desc: a reinforced version of the Wavsep evaluation platform
   - name: 'Websites Vulnerable to SSTI'
     link: ssti
     desc: a set of simple servers which are vulnerable to Server Side Template Injection (maintained)
