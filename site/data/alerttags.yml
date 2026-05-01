@@ -193,6 +193,9 @@ CWE-524:
 CWE-525:
   link: https://cwe.mitre.org/data/definitions/525.html
 
+CWE-527:
+  link: https://cwe.mitre.org/data/definitions/527.html
+
 CWE-530:
   link: https://cwe.mitre.org/data/definitions/530.html
 
@@ -231,6 +234,9 @@ CWE-614:
 
 CWE-615:
   link: https://cwe.mitre.org/data/definitions/615.html
+
+CWE-639:
+  link: https://cwe.mitre.org/data/definitions/639.html
 
 CWE-642:
   link: https://cwe.mitre.org/data/definitions/642.html
@@ -332,7 +338,7 @@ OWASP_2021_A01:
   link: 
 
 OWASP_2021_A02:
-  link: https://owasp.org/Top10/A02_2021-Cryptographic_Failures/
+  link: 
 
 OWASP_2021_A03:
   link: https://owasp.org/Top10/A03_2021-Injection/
@@ -341,13 +347,13 @@ OWASP_2021_A04:
   link: https://owasp.org/Top10/A04_2021-Insecure_Design/
 
 OWASP_2021_A05:
-  link: https://owasp.org/Top10/A05_2021-Security_Misconfiguration/
+  link: 
 
 OWASP_2021_A06:
   link: https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
 
 OWASP_2021_A07:
-  link: https://owasp.org/Top10/A07_2021-Identification_and_Authentication_Failures/
+  link: 
 
 OWASP_2021_A08:
   link: 
@@ -362,13 +368,13 @@ OWASP_2025_A01:
   link: 
 
 OWASP_2025_A02:
-  link: https://owasp.org/Top10/2025/A02_2025-Security_Misconfiguration/
+  link: 
 
 OWASP_2025_A03:
-  link: https://owasp.org/Top10/2025/A03_2025-Software_Supply_Chain_Failures/
+  link: 
 
 OWASP_2025_A04:
-  link: https://owasp.org/Top10/2025/A04_2025-Cryptographic_Failures/
+  link: 
 
 OWASP_2025_A05:
   link: 
@@ -377,7 +383,7 @@ OWASP_2025_A06:
   link: https://owasp.org/Top10/2025/A06_2025-Insecure_Design/
 
 OWASP_2025_A07:
-  link: https://owasp.org/Top10/2025/A07_2025-Authentication_Failures/
+  link: 
 
 OWASP_2025_A08:
   link: https://owasp.org/Top10/2025/A08_2025-Software_or_Data_Integrity_Failures/
